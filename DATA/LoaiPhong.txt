@@ -1,0 +1,4 @@
+STD,Standard room,1,Cleaning,450
+SUP,Superior room,2,Cleaning-Laundry,800
+DLX,Deluxe room,3,Cleaning-Laundry-Breakfast,1200
+VIP,Vip room,3,Swimming-Cinema-Breakfast,1600

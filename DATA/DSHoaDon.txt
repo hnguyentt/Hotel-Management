@@ -1,0 +1,18 @@
+@,KH1,Tran Kim Quyen,L1.2,STD,450,22,11,2017,30,11,2017,2
+DV1,Laundry,0,15,6,90
+DV7,Swimming,0,30,5,150
+@,KH2,Nguyen Khanh Trang,L3.3,SUP,800,20,10,2017,30,10,2017,0
+@,KH3,Van Kim Thanh,L1.3,SUP,800,16,7,2017,30,7,2017,3
+DV5,Avocado smoothy,15,25,6,150
+DV9,Popcorn,5,15,4,60
+DV8,Cinema,5,120,2,240
+@,KH4,Tran Khanh Vy,L1.3,SUP,800,24,12,2017,2,1,2018,4
+DV2,Bread,5,10,4,40
+DV3,Orange juice,8,15,4,60
+DV7,Swimming,0,30,3,90
+DV12,Coca cola,5,15,6,90
+@,KH5,Ngo Khanh,L1.5,DLX,1200,1,1,2018,10,1,2018,2
+DV17,Strawberry sting,5,15,8,120
+DV7,Swimming,0,30,5,150
+@,KH6,Kim Loan,L2.4,SUP,800,19,10,2017,26,10,2017,1
+DV7,Swimming,0,30,3,90

@@ -1,0 +1,11 @@
+GD,123,Nguyen Vu Quang,GD,Director,160,40000
+QL1,456,Nguyen Vu Thanh Uyen,QL,Director,150,18750
+QL2,789,Nguyen Thi Kim Loan,QL,Manager,140,17500
+QL3,012,Nguyen Thi Minh Thu,QL,Manager,150,18750
+TT1,345,Truong Thi Bich Quyen,TT,Receptionist,165,5100
+TT2,678,Tran Le Son,TT,Receptionist,175,5700
+TT3,901,Tran Canh Tien,TT,Receptionist,140,4200
+TT4,358,Vu Tung,TT,Receptionist,130,3900
+TT5,246,Nguyen Bach,TT,Receptionist,100,3000
+TT6,923,Vu Duc Duy,TT,Receptionist,120,3600
+TT7,245,Tran Hung,TT,Receptionist,0,0

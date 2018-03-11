@@ -1,0 +1,17 @@
+DV1,Laundry,0,20
+DV2,Bread,5,10
+DV3,Orange juice,8,15
+DV4,Strawberry smoothy,12,20
+DV5,Avocado smoothy,15,25
+DV6,Souvenir,30,50
+DV7,Swimming,0,30
+DV8,Cinema,5,120
+DV9,Popcorn,5,15
+DV10,Milk,8,20
+DV11,Tea,3,10
+DV12,Coca cola,5,15
+DV13,Pepsi,5,15
+DV14,Milk tea,5,20
+DV15,Fried rice,10,30
+DV16,7UP,3.5,10
+DV17,Strawberry sting,5,15
